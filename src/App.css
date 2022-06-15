@@ -27,7 +27,7 @@ form input {
 
 button {
   font-size: 16px;
-  background-color: rgb(217, 60, 35);
+  background-color: #D16B75;
   color: #fff;
   border-radius: 8px;
   border: none;
@@ -35,10 +35,10 @@ button {
   cursor: pointer;
 }
 button:hover {
-  background-color: rgb(173, 47, 28);
+  background-color: #D16B75;
 }
 button:active {
-  background-color: rgb(130,35,21);
+  background-color: #D16B75;
 }
 button:focus {
   outline: 0;
